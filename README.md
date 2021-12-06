@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chameera Jayaweera
-- 👀 I’m interested in Web scraping, Web development
-- 🌱 I’m currently learning Deep learning
-- 💞️ I’m looking to collaborate on any kind of data science and software project
+- 👀 I’m interested in data science and software development
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on any kind of data science or software project
 - 📫 You can reach me on chameesjaya@gmail.com
 
 <!---
